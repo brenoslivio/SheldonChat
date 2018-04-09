@@ -1,0 +1,1 @@
+- Antes de executar o Software, crie um banco de dados em MySql com o nome de "autismo".
