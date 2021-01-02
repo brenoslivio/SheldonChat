@@ -51,7 +51,7 @@ To get a local copy up and running follow these simple steps.
 
 ### Prerequisites
 
-Create a MySql database called 'autismo'. It will be the local where the data will be stored.
+Java 8 or greater, MySQL Workbench.
 
 ### Installation
 
@@ -59,7 +59,9 @@ Create a MySql database called 'autismo'. It will be the local where the data wi
    ```sh
    git clone https://github.com/brenoslivio/SheldonChat.git
    ```
-2. Install Java if not already installed on your machine.
+2. Create a SQL database with MySQL Workbench called 'autismo'. It will be the local where the data will be stored.
+
+3. Now you can execute the .jar files with Java.
 
 <!-- LICENSE -->
 ## License
